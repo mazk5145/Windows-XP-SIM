@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Windows-XP-Simulator", "Windows-XP-Simulator.csproj", "{CFD1378F-B4C8-4051-A5CC-A814D8BA2C9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFD1378F-B4C8-4051-A5CC-A814D8BA2C9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFD1378F-B4C8-4051-A5CC-A814D8BA2C9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFD1378F-B4C8-4051-A5CC-A814D8BA2C9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFD1378F-B4C8-4051-A5CC-A814D8BA2C9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C65A5F6-0863-4EBE-AA4F-852291945203}
+	EndGlobalSection
+EndGlobal
